@@ -1,1 +1,6 @@
-# Operating-Platforms
+1. The gaming Room is a game development company who is trying to turn their game Draw It or Lose it into a multi-platform application to expand there player base. They asked me to design a singleton data structure and determine the best route for them to deploy their game to new platforms.
+2. I believe I thoroughly vetted each recommendation to apply to The Gaming rooms needs.
+3. Completing a design document definitely helped me see how my code for one section was used in the bigger scheme of the whole program such as when developing the singleton structure, that showed me how that translates to memory and storage optimization later on.
+4. I think if I had to redo the document I would revise the requirements and design constraints sections. After completing the program, the needs and constraints became much clearer and could be expanded on more.
+5. Considering the users needs is important because if it does not meet their needs they simply will not use it and the business goes under. I considered users needs in the recommandations sections, specifically opting for cloud based platforms to minimize impact on a users local system.
+6. In the future I think I would look at the program as a whole to better understand the requirements and constraints. Not that they were not followed in this case but I feel I could much more effectively design the software with this new perspective.
